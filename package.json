@@ -17,6 +17,7 @@
   "dependencies": {
     "lodash": "^4.17.4",
     "octonode": "^0.7.13",
-    "slackbots": "^0.5.3"
+    "slackbots": "^0.5.3",
+    "express": "^4.15.2"
   }
 }

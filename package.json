@@ -12,6 +12,9 @@
     "pull requests",
     "reminders"
   ],
+  "scripts": {
+    "start": "bin/snowball-init.js"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {

@@ -1,1 +1,1 @@
-web: node bin/snowball-init.js
+worker: node bin/snowball-init.js

@@ -21,6 +21,7 @@
     "lodash": "^4.17.4",
     "octonode": "^0.7.13",
     "slackbots": "^0.5.3",
-    "moment-timezone": "^0.5.14"
+    "moment-timezone": "^0.5.14",
+    "yn": "^2.0.0"
   }
 }
